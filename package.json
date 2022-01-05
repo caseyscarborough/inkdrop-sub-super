@@ -2,7 +2,7 @@
   "name": "sub-super",
   "main": "./lib/sub-super",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "An Inkdrop plugin which provides a simplified syntax for adding superscript and subscript to Markdown files.",
   "keywords": [],
   "repository": "https://github.com/caseyscarborough/inkdrop-sub-super",
   "license": "MIT",
