@@ -1,0 +1,15 @@
+{
+  "name": "sub-super",
+  "main": "./lib/sub-super",
+  "version": "1.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/caseyscarborough/inkdrop-sub-super",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {
+    "remark-sub-super": "^1.0.20"
+  }
+}
